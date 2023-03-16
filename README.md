@@ -10,7 +10,6 @@
 3. Go to /bom directory and run the ```mvn clean install``` command.
 4. Build the project in the current directory.
    - ```mvn clean install```
-   - Run ```docker compose up``` command in it.
 4. Go to the wallet-service module and run the jar file under the target file.
    - ```java -jar target/wallet-service-1.0.0.jar```
 5. Go to the wallet-frontend module and run the npm commands below.
